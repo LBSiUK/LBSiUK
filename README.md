@@ -11,4 +11,4 @@
 ## Websites
 
 - [lbsi.uk](https://lbsi.uk)
-- [lbsi-uk-dsone.vercel.app](https://lbsi-uk-dsone.vercel.app): the next version of lbsi.uk, in progress
+- [preview.lbsi.uk](https://preview.lbsi.uk): the next version of lbsi.uk, in progress
